@@ -1,6 +1,6 @@
 # pancakeswap-contracts
 
-## pancakeswap contracts for local development envrironment settings
+## pancakeswap contracts for local development environment settings
 
 ### Ref repositories
 
